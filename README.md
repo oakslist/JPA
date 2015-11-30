@@ -1,4 +1,4 @@
 JPA
 ============
 
-check out the branches
+check out branches
